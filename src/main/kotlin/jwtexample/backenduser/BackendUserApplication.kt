@@ -9,4 +9,3 @@ class BackendUserApplication
 fun main(args: Array<String>) {
 	runApplication<BackendUserApplication>(*args)
 }
-z
