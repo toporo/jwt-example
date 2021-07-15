@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://admin:e296cd9f@localhost:27017/admin
+      database: db-user
+jwt:
+  secret: secret
